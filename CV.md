@@ -9,7 +9,7 @@
 ### Summary:
   Passionate about programming, hope to work on interactive apps and web-program implementation. Ambitious and a quick learner.
 
-### Skills:
+### Coding Skills:
   * HTML
   * CSS
   * SASS
@@ -21,7 +21,7 @@
   * ESLint
 
 ### Code example: 
-```JS
+```javascript
 import data from './data/cards'; // Данные
 import menu from './menu' // Боковое меню
 import cards from './cards'
@@ -58,12 +58,12 @@ function mainPage() { // Отрисовка главной страницы с �
  Intermidiate level - [Wise Training Centre](http://wisetraining.uz)
  
 ### Projects:
-* [English for Kids](https://abbos-ron2.github.io/english/index.html)
 * [Weather App](https://abbos-ron2.github.io/weather)
 * [Virtual Keyboard](http://abbos-ron2.github.io/virtual-keyboard)
 * [Gem Puzzle](https://modest-aryabhata-b20112.netlify.com)
 * [Singolo](https://abbos-ron2.github.io/singolo)
 * [Canvas](https://abbos-ron2.github.io/codejam-image-api)
+* [English for Kids](https://abbos-ron2.github.io/english/index.html)  (In progress)
 
 
 ### Reference:
