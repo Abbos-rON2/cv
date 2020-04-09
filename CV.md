@@ -51,7 +51,7 @@ function mainPage() { // Отрисовка главной страницы с �
 
 - [Rolling Scopes School](https://rs.school)
 - [CodeClass school of Programming](https://codeclass.uz)
-- [HTML Academy (HTML/CSS)] (https://htmlacademy.ru) 
+- [HTML Academy](https://htmlacademy.ru)
 - 42-public school 
 
 ### English:
@@ -59,14 +59,14 @@ function mainPage() { // Отрисовка главной страницы с �
  
 ### Projects:
 * [English for Kids](https://abbos-ron2.github.io/english)
-* [Weather] (https://abbos-ron2.github.io/weather)
+* [Weather](https://abbos-ron2.github.io/weather)
 * [Virtual Keyboard](http://abbos-ron2.github.io/virtual-keyboard)
 * [Gem Puzzle](http://abbos-ron2.github.io/gem-puzzle)
 * [Singolo](https://abbos-ron2.github.io/singolo)
 * [Canvas](https://abbos-ron2.github.io/codejam-image-api)
 
 ### Reference:
-* Munira Begmuratova 
+## Munira Begmuratova 
 * Mentor at Rolling Scopes School
 * [Telegram](https://t.me/@Muneeesh)
 
