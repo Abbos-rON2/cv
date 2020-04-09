@@ -18,10 +18,10 @@
   * SASS
   * Bootstrap
   * JavaScript
-  * jQuery
-  * WordPress
   * VSCode
   * GIT
+  * WebPack
+  * EsLint
 
 ### 5.Code examples: 
 ```JS
@@ -63,21 +63,30 @@ function mainPage() { // Отрисовка главной страницы с �
 ```
 
 ### 6.Experience:
- Completed a 6-month long web-devepment course at CodeClass coding school in Tashkent. Have completed online courses at HTMLacademy and created a wordpress site as a freelance project.
- At this moment attending to [Roling Scope School](http://rs.school)
+ Completed a 6-month-long web-devepment course at CodeClass Coding School in Tashkent. Have completed online courses at HTMLacademy and created a wordpress site as a freelance project.
+ At this moment attending [Rolling Scopes School](http://rs.school)
  
 
 ### 7.Education:
- Currently attending 42-school as a 10-th grade student.
+
+- [Rolling Scopes School](http://rs.school)
+- CodeClass school of Programming
+- HTML Academy (HTML/CSS)
+- 42-public school 
 
 ### 8.English:
- Currently studying at intermidiate level. 
+ Intermidiate level - Wise Training Centre
  
 ### 9.Projects:
 [Virtual Keyboard](http://abbos-ron2.github.io/virtual-keyboard)
 [Gem Puzzle](http://abbos-ron2.github.io/gem-puzzle)
 [Singolo](https://abbos-ron2.github.io/singolo)
 [English for Kids](https://abbos-ron2.github.io/english/)
+
+### 10. Reference:
+Munira Begmuratova 
+Mentor at Rolling Scopes School
++46 76786 5557
 
 
 
