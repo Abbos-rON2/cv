@@ -48,9 +48,9 @@ function mainPage() { // Отрисовка главной страницы с �
  
 
 ### Education:
-
-- [Rolling Scopes School](https://rs.school)
 - [CodeClass school of Programming](https://codeclass.uz)
+ ![CodeClass](https://imgur.com/a/jqPtuwG)
+- [Rolling Scopes School](https://rs.school)
 - [HTML Academy](https://htmlacademy.ru)
 - 42-public school 
 
@@ -64,6 +64,7 @@ function mainPage() { // Отрисовка главной страницы с �
 * [Gem Puzzle](http://abbos-ron2.github.io/gem-puzzle)
 * [Singolo](https://abbos-ron2.github.io/singolo)
 * [Canvas](https://abbos-ron2.github.io/codejam-image-api)
+
 
 ### Reference:
 ## Munira Begmuratova 
