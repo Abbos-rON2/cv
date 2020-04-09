@@ -50,18 +50,20 @@ function mainPage() { // Отрисовка главной страницы с �
 ### Education:
 
 - [Rolling Scopes School](https://rs.school)
-- [CodeClass school of Programming](https://codeclass.uz/)
-- [HTML Academy] (https://htmlacademy.ru) (HTML/CSS)
+- [CodeClass school of Programming](https://codeclass.uz)
+- [HTML Academy (HTML/CSS)] (https://htmlacademy.ru) 
 - 42-public school 
 
 ### English:
- Intermidiate level - Wise Training Centre
+ Intermidiate level - [Wise Training Centre](http://wisetraining.uz)
  
 ### Projects:
+* [English for Kids](https://abbos-ron2.github.io/english)
+* [Weather] (https://abbos-ron2.github.io/weather)
 * [Virtual Keyboard](http://abbos-ron2.github.io/virtual-keyboard)
 * [Gem Puzzle](http://abbos-ron2.github.io/gem-puzzle)
 * [Singolo](https://abbos-ron2.github.io/singolo)
-* [English for Kids](https://abbos-ron2.github.io/english/)
+* [Canvas](https://abbos-ron2.github.io/codejam-image-api)
 
 ### Reference:
 * Munira Begmuratova 
