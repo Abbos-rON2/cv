@@ -67,9 +67,9 @@ function mainPage() { // Отрисовка главной страницы с �
 
 
 ### Reference:
-* Munira Begmuratova 
-* Mentor at Rolling Scopes School
-* [Telegram](https://t.me/@Muneeesh)
+- Munira Begmuratova 
+- Mentor at Rolling Scopes School
+- [Telegram](https://t.me/@Muneeesh)
 
 
 
