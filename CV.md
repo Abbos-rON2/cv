@@ -58,7 +58,7 @@ function mainPage() { // Отрисовка главной страницы с �
  Intermidiate level - [Wise Training Centre](http://wisetraining.uz)
  
 ### Projects:
-* [English for Kids](https://abbos-ron2.github.io/english)
+* [English for Kids](https://abbos-ron2.github.io/english/index.html)
 * [Weather App](https://abbos-ron2.github.io/weather)
 * [Virtual Keyboard](http://abbos-ron2.github.io/virtual-keyboard)
 * [Gem Puzzle](https://modest-aryabhata-b20112.netlify.com)
