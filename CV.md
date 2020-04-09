@@ -61,7 +61,7 @@ function mainPage() { // Отрисовка главной страницы с �
 * [English for Kids](https://abbos-ron2.github.io/english)
 * [Weather App](https://abbos-ron2.github.io/weather)
 * [Virtual Keyboard](http://abbos-ron2.github.io/virtual-keyboard)
-* [Gem Puzzle](http://abbos-ron2.github.io/gem-puzzle)
+* [Gem Puzzle](https://modest-aryabhata-b20112.netlify.com)
 * [Singolo](https://abbos-ron2.github.io/singolo)
 * [Canvas](https://abbos-ron2.github.io/codejam-image-api)
 
