@@ -4,7 +4,7 @@
 ### Contact Info:
   * E-mail: abbos6264258@gmail.com
   * Phone: +998 94 6264258
-  * Telegram: [@rON2_webdev]http://t.me/rON2_webdev)
+  * Telegram: [@ron2_webdev](http://t.me/rON2_webdev)
 
 ### Summary:
   Passionate about programming, hope to work on interactive apps and web-program implementation. Ambitious and a quick learner.
@@ -49,7 +49,7 @@ function mainPage() { // Отрисовка главной страницы с �
 
 ### Education:
 - [CodeClass school of Programming](https://codeclass.uz)
- ![CodeClass](https://imgur.com/a/jqPtuwG)
+ ![GitHub Logo](https://imgur.com/5cbrj66)
 - [Rolling Scopes School](https://rs.school)
 - [HTML Academy](https://htmlacademy.ru)
 - 42-public school 
