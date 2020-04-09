@@ -59,7 +59,7 @@ function mainPage() { // Отрисовка главной страницы с �
  
 ### Projects:
 * [English for Kids](https://abbos-ron2.github.io/english)
-* [Weather](https://abbos-ron2.github.io/weather)
+* [Weather App](https://abbos-ron2.github.io/weather)
 * [Virtual Keyboard](http://abbos-ron2.github.io/virtual-keyboard)
 * [Gem Puzzle](http://abbos-ron2.github.io/gem-puzzle)
 * [Singolo](https://abbos-ron2.github.io/singolo)
