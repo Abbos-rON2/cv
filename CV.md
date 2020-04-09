@@ -49,7 +49,7 @@ function mainPage() { // Отрисовка главной страницы с �
 
 ### Education:
 - [CodeClass school of Programming](https://codeclass.uz)
- ![GitHub Logo](https://imgur.com/5cbrj66)
+ ![CodeClass](img.jpg)
 - [Rolling Scopes School](https://rs.school)
 - [HTML Academy](https://htmlacademy.ru)
 - 42-public school 
