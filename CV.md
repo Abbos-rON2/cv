@@ -1,18 +1,15 @@
-# rsschool-cv
 
-### 1.Abbos Amritdinov
-![My photo]()
-  
+# Abbos Amritdinov
 
-### 2.Contact Info:
+### Contact Info:
   * E-mail: abbos6264258@gmail.com
-  * Phone: +998 (94) 6264258
-  * Telegram: [@rON2_webdev](http://t.me/rON2_webdev)
+  * Phone: +998 94 6264258
+  * Telegram: [@rON2_webdev]http://t.me/rON2_webdev)
 
-### 3.Summary:
+### Summary:
   Passionate about programming, hope to work on interactive apps and web-program implementation. Ambitious and a quick learner.
 
-### 4.Skills:
+### Skills:
   * HTML
   * CSS
   * SASS
@@ -21,28 +18,11 @@
   * VSCode
   * GIT
   * WebPack
-  * EsLint
+  * ESLint
 
-### 5.Code examples: 
+### Code example: 
 ```JS
 import data from './data/cards'; // Данные
-import menu from './menu' // Боковое меню
-import cards from './cards'
-
-function mainPage() { // Отрисовка главной страницы с категориями
-  const container = document.querySelector('.container.main-container');
-  data[0].forEach((element, index) => {
-    const a = document.createElement('a');
-    a.className = 'main-card green';
-    a.onclick = () => { localStorage.setItem('page', index); };
-    a.innerHTML = `${element}`;
-    a.href = './cards.html';
-    container.append(a);
-    const img = document.createElement('img');
-    img.src = `./data/${data[index + 1][0].image}`;
-    a.prepend(img);
-  });
-}import data from './data/cards'; // Данные
 import menu from './menu' // Боковое меню
 import cards from './cards'
 
@@ -62,31 +42,31 @@ function mainPage() { // Отрисовка главной страницы с �
 }
 ```
 
-### 6.Experience:
+### Experience:
  Completed a 6-month-long web-devepment course at CodeClass Coding School in Tashkent. Have completed online courses at HTMLacademy and created a wordpress site as a freelance project.
  At this moment attending [Rolling Scopes School](http://rs.school)
  
 
-### 7.Education:
+### Education:
 
-- [Rolling Scopes School](http://rs.school)
-- CodeClass school of Programming
-- HTML Academy (HTML/CSS)
+- [Rolling Scopes School](https://rs.school)
+- [CodeClass school of Programming](https://codeclass.uz/)
+- [HTML Academy] (https://htmlacademy.ru) (HTML/CSS)
 - 42-public school 
 
-### 8.English:
+### English:
  Intermidiate level - Wise Training Centre
  
-### 9.Projects:
-[Virtual Keyboard](http://abbos-ron2.github.io/virtual-keyboard)
-[Gem Puzzle](http://abbos-ron2.github.io/gem-puzzle)
-[Singolo](https://abbos-ron2.github.io/singolo)
-[English for Kids](https://abbos-ron2.github.io/english/)
+### Projects:
+* [Virtual Keyboard](http://abbos-ron2.github.io/virtual-keyboard)
+* [Gem Puzzle](http://abbos-ron2.github.io/gem-puzzle)
+* [Singolo](https://abbos-ron2.github.io/singolo)
+* [English for Kids](https://abbos-ron2.github.io/english/)
 
-### 10. Reference:
-Munira Begmuratova 
-Mentor at Rolling Scopes School
-+46 76786 5557
+### Reference:
+* Munira Begmuratova 
+* Mentor at Rolling Scopes School
+* [Telegram](https://t.me/@Muneeesh)
 
 
 
